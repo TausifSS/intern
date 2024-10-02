@@ -11,5 +11,10 @@ AI Tools Hub is a landing page designed to showcase various AI tools across mult
 - **Interactive Elements**: Hover effects and buttons enhance user experience.
 - **Hero Section**: An attractive hero section that introduces the project.
 - **Footer Section**: Includes a subscription form for newsletters.
- 
- 
+
+## Demo
+
+You can view the live demo of this project at: [AI Tools Hub Demo](https://tausifss.github.io/intern/)
+
+## Project Structure
+
